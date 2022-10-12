@@ -1,3 +1,8 @@
+<p align = "center"> <a href="https://ibb.co/TP5Wp0D"><img src="https://i.ibb.co/ssrWk1p/console.png" alt="console" border="0"></a> </p>
+
+
+<h2> **Info** </h2>
+
 <p align =  "left" > This is just a game where you have to suggest two numbers, these two numbers will be merged with the computer's seleted numbers </p>
 
 - **if both of them matches**, you've won in two places, and the computer loses
