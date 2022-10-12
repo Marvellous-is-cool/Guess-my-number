@@ -17,7 +17,8 @@ You can always try again if you lose ☺️** </p>
 <br />
 <br />
 
-**[HOW TO PLAY]
+<h4 align = "center">**[HOW TO PLAY]**</h4>
+
  There are two boards shared by you and the computer. Yours is on the right side while the computer's is on the left side. The computer will say a word in each board, and you also have to say the same word in each board. 
 
 <br />
